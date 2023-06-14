@@ -11,5 +11,8 @@
 - 프로젝트 구현 보고서 (PPT) : https://docs.google.com/presentation/d/11v58VJ509_qCtkutjIALgU-Rk8YZxQeh/edit#slide=id.p13
 
 
-## [내가 구현한 파트 > 같이해요 게시판]
+## [내가 구현한 파트]
+
+### 같이해요 게시판
+1. 
 
