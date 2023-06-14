@@ -8,5 +8,5 @@
 
 - 주요 기능 : 게시글 CRUD, 거래 신청 및 참가, 검색 기능, 댓글 작성, 추천 / 비추천, 조회수, 관심수 등록 등
 
-- 프로젝트 구현 보고서 : (https://docs.google.com/presentation/d/11v58VJ509_qCtkutjIALgU-Rk8YZxQeh/edit#slide=id.p13)
+- 프로젝트 구현 보고서 (PPT) : https://docs.google.com/presentation/d/11v58VJ509_qCtkutjIALgU-Rk8YZxQeh/edit#slide=id.p13
 
