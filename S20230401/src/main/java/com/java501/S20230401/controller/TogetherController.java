@@ -242,7 +242,7 @@ public class TogetherController {
 		article.setTrd_enddate(trd_endDate);
 		article.setMem_id(memberDetails.getMemberInfo().getMem_id());
 
-		// 프로시저 Insert_Article 이용 => 게시글 작성
+		// 프로시저 Insert_Article 이용 => 게시글 작성.
 		as.dbWriteArticle(article);
 		int insertResult = article.getInsert_result();
 		int brd_id = article.getBrd_id();
